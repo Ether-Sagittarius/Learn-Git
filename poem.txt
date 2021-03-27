@@ -4,4 +4,5 @@ Red
 Blue
 Green
 Purple
+Pink
 These are Colors of Rainbow.
