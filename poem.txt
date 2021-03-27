@@ -6,5 +6,6 @@ Green
 Purple
 Pink
 Yellow
+Cyan
 These are Colors of Rainbow.
 And the Unicorn
